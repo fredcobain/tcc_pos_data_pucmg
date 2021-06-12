@@ -1,0 +1,11 @@
+Mortalidade geral exceto causas externas    
+Óbitos Residentes MSP por Óbitos por Covid 19 e Faixa Etária (12)
+Período:2020
+"Óbitos por Covid 19";"< 1 ano";"01 - 04";"05 - 09";"10 - 14";"15 - 19";"20 - 29";"30 - 39";"40 - 49";"50 - 59";"60 - 69";"70 - 79";"80 e +";"Ign";"Total"
+"Óbitos provavelmente por COVID 19";12;11;8;4;19;84;157;284;565;1044;1325;2694;4;6211
+"Óbitos confirmados de COVID 19";6;9;6;10;18;103;462;960;2056;3733;4313;5263;4;16943
+"Total";18;20;14;14;37;187;619;1244;2621;4777;5638;7957;8;23154
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 13/05/2021.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.
