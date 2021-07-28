@@ -1,0 +1,16 @@
+Mortalidade geral exceto causas externas    
+Óbitos Residentes MSP por Cor e Mês do Óbito
+Óbitos por Covid 19: Óbitos confirmados de COVID 19
+Período:2020
+"Cor";"Março";"Abril";"Maio";"Junho";"Julho";"Agosto";"Setembro";"Outubro";"Novembro";"Dezembro";"Total"
+"Branca";347;1438;2091;1842;1373;1014;628;369;484;889;10475
+"Preta";28;228;330;320;221;132;95;57;59;118;1588
+"Amarela";16;62;76;66;39;41;23;11;20;46;400
+"Parda";83;618;988;735;474;355;190;140;129;208;3920
+"Indígena";1;3;3;3;1;-;1;-;1;-;13
+"Não informado";15;88;129;98;79;58;25;24;12;43;571
+"Total";490;2437;3617;3064;2187;1600;962;601;705;1304;16967
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 26/07/2021.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.
