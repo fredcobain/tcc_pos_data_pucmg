@@ -5,4 +5,9 @@ Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciê
 Vídeo de apresentação do TCC:
 https://youtu.be/OF0f24SLQ5s
 
+Documento em PDF:
+https://github.com/fredcobain/tcc_pos_data_pucmg/blob/master/pdf/TCC_Frederico_Comerio_BigData.pdf
+
+
+
 
